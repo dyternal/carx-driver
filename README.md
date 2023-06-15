@@ -4,7 +4,7 @@ A 3D car driving game created using [Unity](https://unity.com/)
 
 ## Installation
 
-1. Download the [latest release](https://github.com/dyternal/heatblast-vs.-zombies/releases/tag/unity)
+1. Download the [latest release](https://github.com/dyternal/carx-driver/releases/tag/unity)
 2. Extract the rar file.
 3. Run the "CarX Driver" executable file.
 4. Enjoy!
