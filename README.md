@@ -2,6 +2,8 @@
 
 A 3D car driving game created using [Unity](https://unity.com/)
 
+ **[🎬 Gameplay Video](https://www.youtube.com/watch?v=ISvDIme_sWY)** | **[🌐 Project Page](https://rhsakman.com/projects/carx_driver.html)**
+
 ## Installation
 
 1. Download the [latest release](https://github.com/dyternal/carx-driver/releases/tag/unity)
